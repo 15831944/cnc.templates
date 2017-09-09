@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="280mm" height="280mm" viewBox="0 0 280 280" xml:space="preserve">
+
+ <defs>
+    <symbol id="Heart" viewBox="0 0 280 272">
+      <path d="M140,58c30,-60,110,-60,130,0c30,100,-110,150,-130,210M140,58c-30,-60,-110,-60,-130,0c-30,100,110,150,130,210"/>
+    </symbol>      
+
+    <clipPath id="H1">
+      <path d="M140,58c30,-60,110,-60,130,0c30,100,-110,150,-130,210M140,58c-30,-60,-110,-60,-130,0c-30,100,110,150,130,210"/>
+    </clipPath>
+  </defs>
+
+  <g transform="translate(0,0) scale(1)">
+    <g style="fill:red;stroke:pink;stroke-width:2px;display:default;overflow:visible">
+      <use x="0" y="0" width="280" height="270" xlink:href="#Heart"/>
+    </g>
+
+   
+
+    <g style="fill:none;stroke:white;stroke-width:0.5px;">
+      <use x="0" y="0" width="280" height="270" xlink:href="#Heart"/>
+    </g>
+
+    <g transform="translate(126,51) scale(0.1)" style="fill:pink;stroke:white;stroke-width:4px;display:default;">
+      <use x="0" y="0" width="280" height="270" xlink:href="#Heart"/>
+    </g>
+  </g>
+
+</svg>
+
+
+
+

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="81.23558mm"
+   height="61.470425mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="new.svg">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>CncControl SerialEmulatorSVG output</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview8"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.9291774"
+     inkscape:cx="152.93433"
+     inkscape:cy="108.9043"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">CncControl SerialEmulatorSVG output</title>
+  <desc
+     id="desc6">....</desc>
+  <!--samples start /-->
+  <!--line x1="10" y1="0" x2="20" y2="0" stroke="blue" stroke-width="0.5" /-->
+  <!--rect x="5" y="5" width="10" height="10" fill="none" stroke="blue" stroke-width="0.1"/-->
+  <!--rect x="10" y="10" rx="5" ry="5" width="30" height="30" fill="none" stroke="blue" stroke-width="1"/-->
+  <!--polyline fill="none" stroke="blue" stroke-width="0.1" points="10,10 15,15 20,10 25,15" /-->
+  <!--polygon fill="none" stroke="blue" stroke-width="10" points="10 10 15 15 20 10" /-->
+  <!--circle cx="50" cy="40" r="20" fill="none" stroke="blue" stroke-width="1" /-->
+  <!--ellipse cx="50" cy="50" rx="40" ry="30" fill="none" stroke="blue" stroke-width="0.1" /-->
+  <!--path d="M 20.5 20.5 l 10 0 0 10 -10 0z " stroke="black" fill="none" stroke-width="0.5"/-->
+  <!--path d="M10,20 C10,10 25,10 25,20 S40,30 40,20" stroke="black" fill="none" stroke-width="0.5" /-->
+  <!--path d="M40,40 Q40,5 60,30 T100,30"  stroke="black" fill="none" stroke-width="0.5" /-->
+  <!--path d="M 10 20 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 " fill="none" stroke="blue" stroke-width="0.1" /-->
+  <!--path d="M 5,5" stroke="black" fill="none" stroke-width="0.5" /-->
+  <!--samples end /-->
+  <cnc
+     reverse="no"
+     correction="outer" />
+  <path
+     sodipodi:type="star"
+     style="opacity:0.575;fill:#9c0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-opacity:1"
+     id="path8072"
+     sodipodi:sides="5"
+     sodipodi:cx="67.580368"
+     sodipodi:cy="66.94577"
+     sodipodi:r1="67.978836"
+     sodipodi:r2="14.95378"
+     sodipodi:arg1="0.75415833"
+     sodipodi:arg2="1.3824769"
+     inkscape:flatsided="false"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="M 117.12661,113.48921 70.37984,81.635171 38.625557,128.44976 54.475002,74.147501 0.13906677,58.413887 56.681335,56.707283 54.854163,0.16878425 73.949761,53.416307 127.15644,34.207207 82.415903,68.822589 Z"
+     inkscape:transform-center-x="2.8673303"
+     inkscape:transform-center-y="-1.8676566"
+     transform="matrix(0.72911573,0,0,0.70838571,108.63168,3.4139279)" />
+  <path
+     sodipodi:type="star"
+     style="opacity:0.575;fill:#9c0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-opacity:1"
+     id="path8067"
+     sodipodi:sides="5"
+     sodipodi:cx="60.63113"
+     sodipodi:cy="121.21883"
+     sodipodi:r1="66.892441"
+     sodipodi:r2="54.117123"
+     sodipodi:arg1="2.3403228"
+     sodipodi:arg2="2.9686413"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="M 14.08769,169.26367 0.55505632,91.800057 70.045515,54.992185 126.52561,109.70728 91.941776,180.33094 Z"
+     inkscape:transform-center-x="-3.7532894"
+     inkscape:transform-center-y="-1.2071142"
+     transform="matrix(0.16504006,0.74839096,-0.74989019,0.16537069,158.08609,51.549829)" />
+  <ellipse
+     style="opacity:0.575;fill:#9c0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-opacity:1"
+     id="path8076"
+     cx="43.356876"
+     cy="187.08325"
+     rx="11.948747"
+     ry="14.338496" />
+  <ellipse
+     style="opacity:0.575;fill:#9c0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-opacity:1"
+     id="path8078"
+     cx="233.17126"
+     cy="54.11076"
+     rx="50.526131"
+     ry="12.460836" />
+  <ellipse
+     style="opacity:0.575;fill:#9c0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-opacity:1"
+     id="path8080"
+     cx="42.13982"
+     cy="-30.733019"
+     rx="29.701172"
+     ry="15.191978"
+     transform="matrix(0.08337121,0.99651856,-0.99651856,0.08337121,0,0)" />
+<CNC reverse="yes" correction="inner"/>
+  <rect
+     style="opacity:0.575;fill:#9c0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.41922593;stroke-opacity:1"
+     id="rect8082"
+     width="76.75972"
+     height="71.980217"
+     x="202.89774"
+     y="-63.501778"
+     transform="matrix(0.72115362,0.69277518,-0.69277518,0.72115362,0,0)" />
+</svg>
+
+
+
+
+
+
+
+

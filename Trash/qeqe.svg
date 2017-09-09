@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100mm" height="100mm" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>CncControl SerialEmulatorSVG output</title>
+<desc>....</desc>
+<path d="M 185 105M 185 105 A20.7055 20.7055 0 1 1 174.282 145 M 174.282 145 A20.7055 20.7055 0 1 0 145 174.282 M 145 174.282 A20.7055 20.7055 0 1 1 105 185 M 105 185 A20.7055 20.7055 0 1 0 65 174.282 M 65 174.282 A20.7055 20.7055 0 1 1 35.718 145 M 35.718 145 A20.7055 20.7055 0 1 0 25 105 M 25 105 A20.7055 20.7055 0 1 1 35.718 65 M 35.718 65 A20.7055 20.7055 0 1 0 65 35.718 M 65 35.718 A20.7055 20.7055 0 1 1 105 25 M 105 25 A20.7055 20.7055 0 1 0 145 35.718 M 145 35.718 A20.7055 20.7055 0 1 1 174.282 65 M 174.282 65 A20.7055 20.7055 0 1 0 185 105 "  stroke="black" fill="none" stroke-width="1.0"/>
+</svg>
+
+
+

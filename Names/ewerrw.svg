@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100mm" height="100mm" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>CncControl SerialEmulatorSVG output</title>
+<desc>....</desc>
+<g transform="translate(159.449,159.449)"
+  CncSvgPattern="#ltCncSvgPattern#gt#ltTemplate name='Regular - Radius' td='3.125' tc='1' cs='5993077097'/#gt#ltRefPoint x='0.000' y='0.000'/#gt#ltTransform tlX='45.000' tlY='45.000' scX='1.000' scY='1.000' roA='0.000' roX='0.000' roY='0.000' skX='0.000' skY='0.000'/#gt#ltCncParameterBlock reverse='no' depth='z0.000' correction='none'/#gt#ltParameter idx='0' name='Sections' type='double' value='6.000'/#gt#ltParameter idx='1' name='Radius [mm]' type='double' value='40.000'/#gt#ltParameter idx='2' name='Inlay Mode' type='list' value='Whole'/#gt#ltParameter idx='3' name='Reference Point(x/y)' type='list' value='center/center'/#gt#lt/CncSvgPattern#gt"
+>
+<!-- Config Block
+<CncSvgPattern>
+  <Template name="Regular - Radius" td="3.125" tc="1" cs="5993077097"/>
+  <RefPoint x="0.000" y="0.000"/>
+  <Transform tlX="45.000" tlY="45.000" scX="1.000" scY="1.000" roA="0.000" roX="0.000" roY="0.000" skX="0.000" skY="0.000"/>
+  <CncParameterBlock reverse="no" depth="z0.000" correction="none"/>
+  <Parameter idx="0" name="Sections" type="double" value="6.000"/>
+  <Parameter idx="1" name="Radius [mm]" type="double" value="40.000"/>
+  <Parameter idx="2" name="Inlay Mode" type="list" value="Whole"/>
+  <Parameter idx="3" name="Reference Point(x/y)" type="list" value="center/center"/>
+</CncSvgPattern>
+ -->
+
+ <!-- SVG Path Generator: Generated Path Result: -->
+ <CncParameterBlock reverse="no" depth="z0.000" correction="none"/>
+ <path d="M 136.196 0.000 L 68.098 117.949 -68.098 117.949 -136.196 0.000 -68.098 -117.949 68.098 -117.949 136.196 0.000 125.123 0.000 62.562 108.360 -62.562 108.360 -125.123 0.000 -62.562 -108.360 62.562 -108.360 125.123 0.000 114.050 0.000 57.025 98.770 -57.025 98.770 -114.050 0.000 -57.025 -98.770 57.025 -98.770 114.050 0.000 102.977 0.000 51.489 89.181 -51.489 89.181 -102.977 0.000 -51.489 -89.181 51.489 -89.181 102.977 0.000 91.905 0.000 45.952 79.592 -45.952 79.592 -91.905 0.000 -45.952 -79.592 45.952 -79.592 91.905 0.000 80.832 0.000 40.416 70.002 -40.416 70.002 -80.832 0.000 -40.416 -70.002 40.416 -70.002 80.832 0.000 69.759 0.000 34.879 60.413 -34.879 60.413 -69.759 0.000 -34.879 -60.413 34.879 -60.413 69.759 0.000 58.686 0.000 29.343 50.824 -29.343 50.824 -58.686 0.000 -29.343 -50.824 29.343 -50.824 58.686 0.000 47.613 0.000 23.807 41.234 -23.807 41.234 -47.613 0.000 -23.807 -41.234 23.807 -41.234 47.613 0.000 36.540 0.000 18.270 31.645 -18.270 31.645 -36.540 0.000 -18.270 -31.645 18.270 -31.645 36.540 0.000 25.468 0.000 12.734 22.055 -12.734 22.055 -25.468 0.000 -12.734 -22.055 12.734 -22.055 25.468 0.000 14.395 0.000 7.197 12.466 -7.197 12.466 -14.395 0.000 -7.197 -12.466 7.197 -12.466 14.395 0.000 z " 
+   stroke="#FFFF00" fill="none" stroke-width="1.0"
+ />
+
+<!-- Reference cross -->
+ <!--line x1="-8.000000" y1="0.000000" x2="8.000000" y2="0.000000" stroke="#FF0000" fill="none" stroke-width="1"/-->
+ <!--line x1="0.000000" y1="-8.000000" x2="0.000000" y2="8.000000" stroke="#FF0000" fill="none" stroke-width="1"/-->
+</g>
+
+</svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
