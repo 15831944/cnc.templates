@@ -4,10 +4,12 @@
 G17  G40 
 G80
 G90 (weww	qweqewweqe)
-;G91.1 (sddsadad)
+;G91.1 (sddsadad)	
 ; Comment
 
-(<2: Werkzeug Nullwerkzeug>)
+(<2: Werkzeug 
+Nullwerkzeug>)
+
 
 T07 M6
 S0 F500 M3
@@ -547,6 +549,7 @@ G1 X340 Y50
 G1 X350 Y10
 G1 X350 Y50
 G0 Z2
+
 (<38: Kontur ohne BK -3>)
 G0 X361 Y0
 G0 Z2
@@ -556,61 +559,13 @@ G1 X0 Y210
 G1 X0 Y0
 G1 X361 Y0
 G0 Z2
+M2
 (<39: Programmende relativ wegfahren>)
 G91
 G0 Z50 M5 M9
 G0 X0 Y0
 G90
 M30
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

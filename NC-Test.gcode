@@ -1,5 +1,5 @@
 (<1: Programmanfang>)
-% Anything
+% Anything 
 
 G17  G40 G99 G100
 G80
@@ -8,6 +8,7 @@ G90 (weww	qweqewweqe)
 ; Comment
 
 (<2: Werkzeug Nullwerkzeug>)
+sadsaddsdsdsdaaasdasasda
 
 T07 M6
 S0 F500 M3
@@ -562,6 +563,14 @@ G0 Z50 M5 M9
 G0 X0 Y0
 G90
 M30
+
+
+
+
+
+
+
+
 
 
 

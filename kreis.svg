@@ -50,14 +50,24 @@
      id="title4">CncControl SerialEmulatorSVG output</title>
   <desc
      id="desc6">....</desc>
-  <CNC reverse="no" correction="outer"/>
+
   <circle
      style="opacity:0.575;fill:#9c0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.20000958;stroke-opacity:1"
      id="path4140"
-     cx="86.881561"
-     cy="87.280998"
-     r="70.266136" />
+     cx="0"
+     cy="0"
+     r="150.0" />
 </svg>
+
+
+
+
+
+
+
+
+
+
 
 
 
