@@ -51,13 +51,41 @@
   <desc
      id="desc6">....</desc>
 
+
+ <xCncPause  p="1.5"/>	
+
   <circle
      style="opacity:0.575;fill:#9c0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.20000958;stroke-opacity:1"
      id="path4140"
      cx="0"
      cy="0"
-     r="150.0" />
+     r="80.0" />
+
+  <circle
+     style="opacity:0.575;fill:#9c0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.20000958;stroke-opacity:1"
+     id="path4140"
+     cx="0"
+     cy="0"
+     r="120.0" />
 </svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
